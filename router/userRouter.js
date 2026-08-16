@@ -1,7 +1,6 @@
 const express= require('express');
 const bcrypt = require('bcryptjs');
 
-
 const Hospitals = require('../models/Hospitals');
 const Users = require('../models/Users');
 
